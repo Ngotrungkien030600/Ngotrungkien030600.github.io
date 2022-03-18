@@ -52,7 +52,7 @@
 			}
 		},
 		{
-			"longDescription": "Steps for enabling Developer Mode on a Roku device",
+			"longDescription": "Phút 14, hậu vệ Osasuna phạm lỗi với Gavi trong vòng cấm địa, tạo điều kiện để Torres khai thông bế tắc trên chấm 11m. Đến phút 21, cầu thủ người Tây Ban Nha tiếp tục ghi tên mình lên bảng tỷ số sau pha của Dembele.Torres lập cú đúp bàn thắng, Dembele cũng không chịu thua kém. Phút 27, tiền đạo người Pháp hoàn tất  kiến tạo bằng đường chuyền như đặt để Aubameyang lập công, nâng tỷ số lên 3-0.",
 			"thumbnail": "https://ngotrungkien030600.github.io/images/hatano/ac.jpg",
 			"releaseDate": "2020-01-17",
 			"genres": [
@@ -87,7 +87,7 @@
 			}
 		},
 			{
-			"longDescription": "Video highlighting Direct to Play and Enhanced Voice Control features",
+			"longDescription": "Khoảng thời gian tiếp theo, Osasuna oằn mình chống đỡ sức mạnh tấn công vũ bão từ Barca và đành bất lực nhận bàn thua nữa ở phút 75. Tác giả pha lập công ấn định tỷ số 4-0 chung cuộc là Riqui Puig nhưng công lớn thuộc về Dembele.",
 			"thumbnail": "https://ngotrungkien030600.github.io/images/hatano/ac1.jpg",
 			"releaseDate": "2020-01-17",
 			"genres": [
@@ -164,7 +164,7 @@
 							"thumbnail": "https://ngotrungkien030600.github.io/images/meguri/m1.jpg",
 							"shortDescription": "Stream music on your Roku device",
 							"releaseDate": "2020-01-02",
-							"longDescription": "Stream music on your Roku device",
+							"longDescription": "Đón tiếp Leicester City trên sân nhà Emirates, Arsenal buộc phải thắng đối thủ này để chiếm lại vị trí trong top 4 vừa tạm mất vào tay MU khi thắng nhọc Tottenham 3-2 nhờ hat-trick thần thánh của Cristiano Ronaldo trước đó 1 ngày.",
 							"tags": [
 								"tips"
 							],
@@ -200,7 +200,7 @@
 							"thumbnail": "https://ngotrungkien030600.github.io/images/meguri/m2.jpg",
 							"shortDescription": "Find the best placement of your Roku audio devices",
 							"releaseDate": "2020-01-02",
-							"longDescription": "Find the best placement of your Roku audio devices",
+							"longDescription": "Sang hiệp 2, trong lúc đoàn quân của HLV Brendan Rodgers vẫn đang loay hoay tìm bàn gỡ hòa thì đối thủ của họ lại gặp may mắn. Phút 55, Partey đánh đầu cận thành đưa bóng sượt tay của Caglar Soyuncu trong vòng cấm của Leicester City. VAR vào cuộc và sau đó trọng tài chính Anthony Taylor đã cho Arsenal hưởng phạt đền. Trên chấm 11m, Alexandre Lacazette dễ dàng nhân đôi cách biệt tỷ số cho ",
 							"tags": [
 								"tips"
 							],
@@ -240,7 +240,7 @@
 							"thumbnail": "https://ngotrungkien030600.github.io/images/meguri/m3.jpg",
 							"shortDescription": "Let your guests stream with their own accounts",
 							"releaseDate": "2019-12-03",
-							"longDescription": "Let your guests stream with their own accounts",
+							"longDescription": "Trận Siêu kinh điển giữa Real Madrid và Barcelona trên sân Bernabeu trong khuôn khổ vòng 29 La Liga sẽ diễn ra vào lúc 3h ngày 21/3. Đây vẫn là trận cầu được người hâm mộ bóng đá thế giới chờ đợi, bất chấp không còn hai siêu sao Cristiano Ronaldo và Lionel Messi.",
 							"tags": [
 								"tips"
 							],
@@ -413,7 +413,7 @@
 								"dateAdded": "2020-05-07T02:32:24Z",
 								"videos": [{
 									"videoType": "MP4",
-									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit5-gridscreen-v4.mp4",
+									"url": "https://ngotrungkien030600.github.io/videos/ro1.mp4",
 									"quality": "HD"
 								}],
 								"duration": 1899,
@@ -438,7 +438,7 @@
 								"dateAdded": "2020-05-07T02:32:24Z",
 								"videos": [{
 									"videoType": "MP4",
-									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit6-videoplayer-v3.mp4",
+									"url": "https://ngotrungkien030600.github.io/videos/ro1.mp4",
 									"quality": "HD"
 								}],
 								"duration": 819,
@@ -467,7 +467,7 @@
 								"dateAdded": "2020-05-16T02:32:24Z",
 								"videos": [{
 									"videoType": "MP4",
-									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit7-debugger-v3.mp4",
+									"url": "https://ngotrungkien030600.github.io/videos/ro2.mp4",
 									"quality": "HD"
 								}],
 								"duration": 381,
@@ -492,7 +492,7 @@
 								"dateAdded": "2020-05-22T02:32:24Z",
 								"videos": [{
 									"videoType": "MP4",
-									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit8-details-screen-v3.mp4",
+									"url": "https://ngotrungkien030600.github.io/videos/ro3.mp4",
 									"quality": "HD"
 								}],
 								"duration": 1251,
@@ -517,7 +517,7 @@
 								"dateAdded": "2020-05-29T02:32:24Z",
 								"videos": [{
 									"videoType": "MP4",
-									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit9-episodePicker-v3.mp4",
+									"url": "https://ngotrungkien030600.github.io/videos/ro4.mp4",
 									"quality": "HD"
 								}],
 								"duration": 2188,
@@ -545,13 +545,13 @@
 								"dateAdded": "2020-06-20T02:32:24Z",
 								"videos": [{
 									"videoType": "MP4",
-									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit10-video-ads-part3.mp4",
+									"url": "https://ngotrungkien030600.github.io/videos/ro5.mp4",
 									"quality": "HD"
 								}],
 								"duration": 1380,
 								"language": "en-us"
 							},
-							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit10-video-ads.png",
+							"thumbnail": "https://ngotrungkien030600.github.io/images/hatano/anh.jpeg",
 							"shortDescription": "Monetize content on the Roku platform through video ads.",
 							"releaseDate": "2020-06-20",
 							"longDescription": "Monetize content on the Roku platform through video ads. This lesson explains how to implement the Roku Advertising Framework (RAF) in order to seamlessly insert video ads into content. It describes the different client and server-side ad insertion and stitching solutions provided by RAF, and how to get started with RAF in order to display video ads in your channel.",
@@ -564,19 +564,19 @@
 						},
 						{
 							"id": "video11-subscriptions",
-							"title": "Offering Subscriptions",
+							"title": "Real Madrid",
 							"episodeNumber": 2,
 							"content": {
 								"dateAdded": "2020-06-27T02:32:24Z",
 								"videos": [{
 									"videoType": "MP4",
-									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit11-subscriptions-v3.mp4",
+									"url": "https://ngotrungkien030600.github.io/videos/ro6.mp4",
 									"quality": "HD"
 								}],
 								"duration": 1561,
 								"language": "en-us"
 							},
-							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit11-rpay-subscriptions.png",
+							"thumbnail": "https://ngotrungkien030600.github.io/images/hatano/bra.jpg",
 							"shortDescription": "Monetize content on your channel by offering subscriptions, directly on-device, through Roku Pay",
 							"releaseDate": "2020-06-27",
 							"longDescription": "Monetize content on your channel by offering subscriptions, directly on-device, through Roku Pay. This lesson explains how to get started with Roku Pay, including how to create a channel, in-channel products, and test users. It describes how the Roku Pay workflow from checking entitlements to completing purchases and granting access to content. It explains how to integrate the Roku Web Service RESTful APIs into your backend system for validating, refunding, and canceling subscriptions.",
@@ -589,19 +589,19 @@
 						},
 						{
 							"id": "video12-deep-linking-part1",
-							"title": "Deep Linking (part 1)",
+							"title": "Racing de Santander",
 							"episodeNumber": 3,
 							"content": {
 								"dateAdded": "2020-07-10T02:32:24Z",
 								"videos": [{
 									"videoType": "MP4",
-									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit12-deep-linking-v3-part1.mp4",
+									"url": "https://ngotrungkien030600.github.io/videos/ro7.mp4",
 									"quality": "HD"
 								}],
 								"duration": 2481,
 								"language": "en-us"
 							},
-							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit12-deep-linking.png",
+							"thumbnail": "https://ngotrungkien030600.github.io/images/hatano/chelsea-jpeg-3619-1622324611.jpg",
 							"shortDescription": "Implement deep linking to get users to content as fast as possible.",
 							"releaseDate": "2020-07-04",
 							"longDescription": "Implement deep linking to get users to content as fast as possible. Program your channel application to accept and process deep links upon being launched and while it is already running. Configure the playback experiences required for the content types in your feed. Create bookmarks to store the user's playback position in the device registry or backend system, and create smart bookmarks to launch the most appropriate episode in a TV series based on the user's viewing history with that series.",
@@ -614,19 +614,19 @@
 						},
 						{
 							"id": "video12-deep-linking-part2",
-							"title": "Deep Linking (part 2)",
+							"title": "Athletic Bilbao",
 							"episodeNumber": 4,
 							"content": {
 								"dateAdded": "2020-07-10T02:32:24Z",
 								"videos": [{
 									"videoType": "MP4",
-									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit12-deep-linking-v3-part2.mp4",
+									"url": "https://ngotrungkien030600.github.io/videos/ro1.mp4",
 									"quality": "HD"
 								}],
 								"duration": 1567,
 								"language": "en-us"
 							},
-							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit12-deep-linking.png",
+							"thumbnail": "https://ngotrungkien030600.github.io/images/hatano/duc.jpg",
 							"shortDescription": "Implement deep linking to get users to content as fast as possible.",
 							"releaseDate": "2020-07-04",
 							"longDescription": "Implement deep linking to get users to content as fast as possible. Program your channel application to accept and process deep links upon being launched and while it is already running. Configure the playback experiences required for the content types in your feed. Create bookmarks to store the user's playback position in the device registry or backend system, and create smart bookmarks to launch the most appropriate episode in a TV series based on the user's viewing history with that series.",
@@ -639,19 +639,19 @@
 						},
 						{
 							"id": "video13-certification-testing",
-							"title": "Certification Testing",
+							"title": "Sevilla FC",
 							"episodeNumber": 5,
 							"content": {
 								"dateAdded": "2020-07-16T02:32:24Z",
 								"videos": [{
 									"videoType": "MP4",
-									"url": "https://image.roku.com/ZHZscHItMTc2/rsg-unit13-cert-testing-v3.mp4",
+									"url": "https://ngotrungkien030600.github.io/videos/ro1.mp4",
 									"quality": "HD"
 								}],
 								"duration": 848,
 								"language": "en-us"
 							},
-							"thumbnail": "https://image.roku.com/ZHZscHItMTc2/rsg-unit13-cert-testing.jpg",
+							"thumbnail": "https://ngotrungkien030600.github.io/images/hatano/li.jpeg",
 							"shortDescription": "Prepare your channel to be published to the Roku channel store.",
 							"releaseDate": "2020-07-16",
 							"longDescription": "Prepare your channel to be published to the Roku channel store. This lesson explains how to test your channel's design and performance and verify that it meets all of Roku's certification criteria using Roku's test automation software and automated testing tools. It provides a quick demo of Roku's Static Analysis tool, which detects certification-related issues with your channel's code and must be passed in order for your channel to be published to the Roku channel store.",
@@ -667,9 +667,9 @@
 			]
 		}
 	],
-	"Korea": [{
+	"Premier League": [{
 			"longDescription": "This video demonstrates the Roku Remote Debugger, and it shows how the BrightScript network debug protocol could be used in an integration with an IDE such as Visual Studio Code.",
-			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a_1/images/roku-brightscript-network-debug-protocol.jpg",
+			"thumbnail": "https://ngotrungkien030600.github.io/images/hatano/ney.jpg",
 			"releaseDate": "2020-01-20",
 			"genres": [
 				"educational"
@@ -679,12 +679,12 @@
 			],
 			"id": "shortform-b2500d7849ec949799cb1d5d0155c6f1eba3308a",
 			"shortDescription": "Demonstrates the Roku Remote Debugger",
-			"title": "BrightScript debug protocol",
+			"title": "Valencia CF",
 			"content": {
 				"duration": 713,
 				"videos": [{
 					"videoType": "MP4",
-					"url": "https://image.roku.com/ZHZscHItMTc2/roku-brightscript-debug-protocol.mp4",
+					"url": "https://ngotrungkien030600.github.io/videos/ro8.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
@@ -693,7 +693,7 @@
 		},
 		{
 			"longDescription": "Video that demonstrates the Roku automated channel testing software. It provides a brief overview of the technology stack, and it shows how both the Roku WebDriver and Robot Framework Library can be used for state-driven channel UI automation testing.",
-			"thumbnail": "https://ngotrungkien030600.github.io/images/meguri/m5.jpg",
+			"thumbnail": "https://ngotrungkien030600.github.io/images/hatano/ro.jpg",
 			"releaseDate": "2020-01-20",
 			"genres": [
 				"educational"
@@ -703,12 +703,12 @@
 			],
 			"id": "shortform-4374be10035077242dde8b7fe272e509ad6e563a",
 			"shortDescription": "Demonstrates the Roku automated channel testing software.",
-			"title": "Automated channel testing",
+			"title": "Atlético Madrid",
 			"content": {
 				"duration": 713,
 				"videos": [{
-					"videoType": "DASH",
-					"url": "https://d1n7kckvd41xqg.cloudfront.net/5b4e5754cc0b44bfaef78e14fcbdaebc/30e282cf1e4a4b08a4d893277ac8f592/807911f5ee304839b53cb56d5f30f9a9/index.mpd",
+					"videoType": "MP4",
+					"url": "https://ngotrungkien030600.github.io/videos/ro1.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
@@ -717,7 +717,7 @@
 		},
 		{
 			"longDescription": "Video demonstrating how a developer can use the Developer Dashboard's user access management feature to give team members the authority to take administrative actions, which are appropriate for their respective organizational roles",
-			"thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660_1/images/userManagementAccess.jpg",
+			"thumbnail": "https://ngotrungkien030600.github.io/images/hatano/ru.jpg",
 			"releaseDate": "2020-01-20",
 			"genres": [
 				"educational"
@@ -727,12 +727,12 @@
 			],
 			"id": "shortform-a59a8c9b7140da32b98cb91fe415a2e3e7dc0660",
 			"shortDescription": "Demonstrates how a developer can use the Developer Dashboard's user access management feature",
-			"title": "Managing user access",
+			"title": "Real Zaragoza",
 			"content": {
 				"duration": 576,
 				"videos": [{
-					"videoType": "DASH",
-					"url": "https://d1n7kckvd41xqg.cloudfront.net/165bffb0ffed48f0b33f3af595ccd5dc/30e282cf1e4a4b08a4d893277ac8f592/807911f5ee304839b53cb56d5f30f9a9/index.mpd",
+					"videoType": "MP4",
+					"url": "https://ngotrungkien030600.github.io/videos/ro3.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
